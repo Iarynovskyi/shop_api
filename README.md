@@ -1,3 +1,11 @@
+All you need to build this project is to run this command:
+
+```bash
+docker-compose up --build    
+````
+
+and go to http://localhost:3000/api/swagger to see the swagger documentation.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
