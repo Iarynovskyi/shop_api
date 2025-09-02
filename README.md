@@ -6,6 +6,13 @@ docker-compose up --build
 
 and go to http://localhost:3000/api/swagger to see the swagger documentation.
 
+you can add
+{
+"Name": "de222sddddddt",
+"Price": 37.3
+}
+this product by POST method.
+
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
